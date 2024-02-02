@@ -1,0 +1,8 @@
+pandas
+pyarrow
+geopandas
+Shapely
+matplotlib
+plotly
+nbformat
+contextily
